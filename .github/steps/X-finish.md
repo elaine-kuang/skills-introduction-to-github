@@ -32,3 +32,7 @@ Check out these resources to learn more or get involved:
 - [Take another GitHub Skills course](https://github.com/skills).
 - [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
 - To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
+
+### Managing GitHub Marketplace Apps
+
+As you continue your GitHub journey, you might explore apps from the GitHub Marketplace to enhance your workflow. If you need to cancel a subscription to a GitHub Marketplace app, navigate to the GitHub Marketplace, next to the app you want to cancel, select the Edit dropdown menu, then click Cancel plan.
